@@ -1,4 +1,3 @@
-// CPP program to print Fizz Buzz
 #include <stdio.h>
 
 void main()
