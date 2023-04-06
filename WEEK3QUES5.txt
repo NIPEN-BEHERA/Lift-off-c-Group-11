@@ -1,0 +1,16 @@
+5. Find the output of the following snippets:
+a. char ****k;
+
+answer :- ii) k is a pointer to a pointer to a pointer to a pointer to a char
+
+
+b. void main()
+{
+int k = 5;
+int *p = &k;
+int **m = &p;
+**m = 6;
+printf("%d\n", k);
+}
+
+answer :- iii) 6
